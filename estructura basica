@@ -1,0 +1,43 @@
+bundle exec jekyll serve
+
+#include <iostream>
+#include <string>
+using namespace std;
+
+int main() {
+    cout << "Hello World!\n";
+}
+
+/*
+
+Nombre: Brandon Calderon Prieto
+Codigo: 202125974
+Email: calderon.brandon@correounivalle.edu.co
+Fecha: 03/12/2021 (dd/mm/yyyy)
+
+*/
+
+/*
+  Archivo: main.cpp
+  Autor: Brandon Calderon Prieto <calderon.brandon@correounivalle.edu.co>
+  Fecha creación: 2022-01-21
+  Fecha última modificación: 2022-01-21
+  Versión: 0.1
+  Licencia: GNU-GPL
+*/
+
+/**
+  Utilidad 
+
+  HISTORIA: 
+*/
+
+/**
+  CLASE: 
+  INTENCIÓN: 
+  RELACIONES: ninguna
+*/
+
+Detectar problemas de memoria
+
+valgrind --tool=memcheck --leak-check=full ./main --log-file // el log file para guardarlo

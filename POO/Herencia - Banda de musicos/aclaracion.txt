@@ -1,0 +1,6 @@
+El taller se encuentra en el replit del siguiente link: 
+https://replit.com/@Br4z/Herencia-banda-de-musicos#main.cpp
+
+En los archivos encontrara un archivo llamado Taller.md, donde relizo cada uno de los puntos propuestos
+en el taller.
+
